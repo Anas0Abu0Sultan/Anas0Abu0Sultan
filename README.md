@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas0abu0sultan&label=Profile%20views&color=0e75b6&style=flat" alt="anas0abu0sultan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas0abu0sultan" alt="anas0abu0sultan" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=anas0abu0sultan" alt="GitHub Profile Trophy for anas0abu0sultan" />
+  </a>
+</p>
 <p align="left"> <a href="https://twitter.com/anassultan2022" target="blank"><img src="https://img.shields.io/twitter/follow/anassultan2022?logo=twitter&style=for-the-badge" alt="anassultan2022" /></a> </p>
 
 - 🔭 I’m currently working on [my Portfolio website](https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/)
