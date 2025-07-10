@@ -4,9 +4,10 @@
 <!-- Animated typing divider -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Back-End+Developer+%7C+Django+Specialist;Crafting+scalable+and+clean+architectures;Passionate+about+Python+development;Always+learning+and+improving" 
-    alt="Typing SVG" 
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f97316&center=true&width=600&lines=Back-End+Developer+%7C+Django+Specialist;Crafting+scalable+and+clean+architectures;Passionate+about+Python+development;Always+learning+and+improving" 
+  alt="Typing SVG" 
+/>
+
 </p>
 
 <!-- Contact & Profile Links -->
