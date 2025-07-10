@@ -143,6 +143,10 @@
 - [Coming soon...]()
 <!-- BLOG-POST-LIST:END -->
 
+<img 
+  src="https://github.com/willianmano/willianmano/raw/main/github-contribution-grid-snake.svg" 
+  alt="GitHub Snake Animation" 
+/>
 ---
 
 > "First, solve the problem. Then, write the code." - John Johnson
