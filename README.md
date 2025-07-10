@@ -1,46 +1,147 @@
 <h1 align="center">Hi 👋, I'm Anas Abu Sultan</h1>
-<h3 align="center">A passionate software developer with expertise in back-end web development (Django)</h3>
+<h3 align="center">Back-End Developer | Django Specialist | Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas0abu0sultan&label=Profile%20views&color=0e75b6&style=flat" alt="anas0abu0sultan" /> </p>
+<!-- Animated typing divider -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Back-End+Developer+%7C+Django+Specialist;Crafting+scalable+and+clean+architectures;Passionate+about+Python+development;Always+learning+and+improving" 
+    alt="Typing SVG" 
+  />
+</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=anas0abu0sultan" alt="GitHub Profile Trophy for anas0abu0sultan" />
+<!-- Contact & Profile Links -->
+<p align="center">
+  <a href="#">
+    <img 
+      src="https://komarev.com/ghpvc/?username=anas0abu0sultan&label=Profile+Views&color=0e75b6&style=for-the-badge" 
+      alt="Profile Views" 
+      style="margin: 5px;" 
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/anas-abu-sultan" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      style="margin: 5px;" 
+    />
+  </a>
+
+  <a href="https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"
+      alt="Portfolio" 
+      style="margin: 5px;" 
+    />
+  </a>
+
+  <a href="mailto:eng.anas.sultan1@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail" 
+      style="margin: 5px;" 
+    />
   </a>
 </p>
-<p align="left"> <a href="https://twitter.com/anassultan2022" target="blank"><img src="https://img.shields.io/twitter/follow/anassultan2022?logo=twitter&style=for-the-badge" alt="anassultan2022" /></a> </p>
+<div align="center">
+ 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anas0abu0sultan&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [my Portfolio website](https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/)
+---
 
-- 🌱 I’m currently learning **AWS,Docker and Design patterns**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Django-based projects and backend development.**
-
-- 👨‍💻 All of my works: [https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/](https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/)
-
-- 💬 Ask me about **My experience in Django development, software engineering, and project management with Agile and Waterfall**
-
-- 📫 How to reach me **eng.anas.sultan1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1opdd8rrh5T11KiI8Wpj2JQB_gmnKs8NF/view?usp=sharing](https://drive.google.com/file/d/1opdd8rrh5T11KiI8Wpj2JQB_gmnKs8NF/view?usp=sharing)
-
-- ⚡ Fun fact **I enjoy solving complex coding challenges and staying updated on software development trends.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anassultan2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassultan2022" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anas-abu-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-abu-sultan" height="30" width="40" /></a>
-<a href="https://kaggle.com/anasabusultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anasabusultan" height="30" width="40" /></a>
-<a href="https://fb.com/anas.sn.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas.sn.79" height="30" width="40" /></a>
-<a href="https://instagram.com/anas.b.sn300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas.b.sn300" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/abusultanasbch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/abusultanasbch" height="30" width="40" /></a>
+<p align="center" style="font-size: 18px; font-weight: 500;">
+  <em>
+    <strong>Back-End Developer</strong> with a strong foundation in <strong>Django</strong>. <br/>
+    I build scalable, maintainable systems and thrive on continuous learning and clean software design.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Backend Developer GIF"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas0abu0sultan&show_icons=true&locale=en&layout=compact" alt="anas0abu0sultan" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas0abu0sultan&show_icons=true&locale=en" alt="anas0abu0sultan" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/⚡_Fun_fact-FFD93D?style=for-the-badge&logoColor=black" alt="Fun fact"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=I+enjoy+solving+complex+algorithmic+challenges;in+my+free+time+%F0%9F%A7%A9%E2%9C%A8" alt="Fun fact typing"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas0abu0sultan&" alt="anas0abu0sultan" /></p>
+---
+### 🛠 Tech Stack
+
+#### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas0abu0sultan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas0abu0sultan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anas0abu0sultan&theme=algolia"/>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/anassultan2022" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/anas-abu-sultan" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/anasabusultan" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://anasabusultan.pythonanywhere.com/Anas-Abu-Sultan/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Coming soon...]()
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+> "First, solve the problem. Then, write the code." - John Johnson
