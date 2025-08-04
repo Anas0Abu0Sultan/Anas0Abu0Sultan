@@ -111,9 +111,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas0abu0sultan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas0abu0sultan&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anas0abu0sultan&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas0abu0sultan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&random=${Math.random()}"/>
+  
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=anas0abu0sultan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79dafa&point=ff6b6b&area=true&area_color=58A6FF"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anas0abu0sultan&theme=algolia&random=${Math.random()}"/>
 </div>
 
 ---
